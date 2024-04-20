@@ -12,7 +12,7 @@ function Products(){
                                 alt="product"
                             />
                             <div className="product-name">
-                                <a href="product.html">{Products.name}</a>
+                                <a href="https://blue-zebra-api.azurewebsites.net/catalog">{Products.name}</a>
                             </div>
                             <div className="product-brand">{Products.brand}</div>
                             <div className="product-price">{Products.price}</div>
